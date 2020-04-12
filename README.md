@@ -1,5 +1,4 @@
 # Basic-Computer-Vision
-
 Python code for basic computer vision.
 
 Tools used:
